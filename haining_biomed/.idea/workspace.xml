@@ -6,16 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73b27d9-4af9-4b02-90a2-970795859bde" name="Default Changelist" comment="transfer of data drug, druglabel, dosingguideline">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/zju/cmd/PharmGKBImporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dosingGuideline.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/drugLabels.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/drugs.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/haining_biomed/WEB-INF/classes/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/haining_biomed/WEB-INF/classes/app.properties" afterDir="false" />
-    </list>
+    <list default="true" id="e1b6b35f-cd76-46cd-94fb-05a912d0f525" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,11 +179,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -238,6 +224,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
